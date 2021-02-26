@@ -14,7 +14,7 @@ export function LevelUpModal({ style }: LevelUpModalProps) {
   useEffect(() => {
     const timer = setTimeout(() => {
       closeLevelUpModal();
-    }, 3000);
+    }, 4000);
 
     return () => {
       clearTimeout(timer);
