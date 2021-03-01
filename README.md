@@ -37,9 +37,9 @@ as a form of incentive, the user receives a certain amount when completing the c
 # :camera: Images
 
 <p float="left" align="center">
-  <img src=".github/moveit-home.jpg" alt="Home" style="margin-right: 10px" />
-  <img src=".github/moveit-challenge.jpg" alt="Challenge" align="top" />
-  <img src=".github/moveit-levelup.jpg" alt="Level up" align="center" />
+  <img src=".github/moveit-home.jpg" alt="Home" />
+  <img src=".github/moveit-challenge.jpg" alt="Challenge" style="margin-top: 10px" />
+  <img src=".github/moveit-levelup.jpg" alt="Level up" style="margin-top: 10px" />
 </p>
 
 # :seedling: How to run
