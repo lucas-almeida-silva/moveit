@@ -6,6 +6,7 @@
 
 * [About](#information_source-about)
 * [Technologies](#computer-technologies)
+* [Requirements](#page_with_curl-requirements)
 * [Features](#rocket-features)
 * [Images](#camera-images)
 * [How to run](#seedling-how-to-run)
@@ -26,6 +27,12 @@ as a form of incentive, the user receives a certain amount when completing the c
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
+
+# :page_with_curl: Requirements
+
+- [Node.js](https://nodejs.org/)
+- [Yarn](https://yarnpkg.com/) (optional)
+- [Git](https://git-scm.com/) (to clone the repository)
 
 # :rocket: Features
 
